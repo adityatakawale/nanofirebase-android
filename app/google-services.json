@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "785955959719",
+    "firebase_url": "https://nanofirebase-333bd.firebaseio.com",
+    "project_id": "nanofirebase-333bd",
+    "storage_bucket": "nanofirebase-333bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785955959719:android:3db59da53b00b9f9",
+        "android_client_info": {
+          "package_name": "com.aditya.nanofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785955959719-fi9nnlb3vgd371ufgkpmu5fo2ifdrrps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aditya.nanofirebase",
+            "certificate_hash": "72720b0bfccfa3812d241c84d66ea596f8212802"
+          }
+        },
+        {
+          "client_id": "785955959719-phn3v2d99ucci872hjaaf6an2patqtvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOweLffFNDiVZIwcuMwOgoRLF9KWbd7pI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785955959719-phn3v2d99ucci872hjaaf6an2patqtvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
